@@ -1,0 +1,52 @@
+Variable Name,Description
+Networth Next Year, Net worth of the customer in next year
+Total assets, Total assets of customer
+Net worth, Net worth of the customer of present year
+Total income, Total income of the customer
+Change in stock, difference between value of current stock and the value of stock in last trading day
+Total expenses, Total expense done by customer
+Profit after tax, Profit after tax deduction
+PBDITA," Profit before depreciation, income tax and amortization"
+PBT, Profit before tax deduction
+Cash profit, Total Cash profit
+PBDITA as % of total income, PBDITA / Total income
+PBT as % of total income, PBT / Total income
+PAT as % of total income, PAT / Total income
+Cash profit as % of total income, Cash Profit / Total income
+PAT as % of net worth, PAT / Net worth
+Sales, Sales done by customer
+Income from financial services, Income from financial services
+Other income, Income from other sources
+Total capital, Total capital of the customer
+Reserves and funds, Total reserves and funds of the customer
+Deposits (accepted by commercial banks), All blank values
+Borrowings, Total amount borrowed by customer
+Current liabilities & provisions, current liabilities of the customer
+Deferred tax liability, Future income tax customer will pay because of the current transaction
+Shareholders funds," Amount of equity in a company, which is belong to shareholder"
+Cumulative retained profits, Total cumulative profit retained by customer
+Capital employed, Current asset minus current liabilities
+TOL/TNW, Total liabilities of the customer divided by Total net worth
+Total term liabilities / tangible net worth, Short + long term liabilities divided by tangible net worth
+Contingent liabilities / Net worth (%), Contingent liabilities / Net worth
+Contingent liabilities, Liabilities because of uncertain events
+Net fixed assets, purchase price of all fixed assets
+Investments, Total invested amount
+Current assets, Assets that are expected to be converted to cash within a year
+Net working capital, Difference of current liabilities and current assets
+Quick ratio (times), Total cash divided by current liabilities
+Current ratio (times), Current assets divided by current liabilities
+Debt to equity ratio (times), Total liabilities divided by its shareholder equity
+Cash to current liabilities (times), Total liquid cash divided by current liabilities
+Cash to average cost of sales per day, Total cash divided by average cost of the sales
+Creditors turnover, Net credit purchase divided to average trade creditors
+Debtors turnover, Net credit sales divided by average accounts receivable
+Finished goods turnover, Annual sales divided by average inventory
+WIP turnover, The cost of goods sold for a period divided by the average inventory for that period
+Raw material turnover, Cost of goods sold is divided by the average inventory for the same period
+Shares outstanding, Number of issued shares minus the number of share held in the company
+Equity face value, cost of the equity at the time of issuing
+EPS, Net income divided by total number of outstanding share
+Adjusted EPS, Adjusted net earning divided by the weighted average number of common share outstanding on a diluted basis during the plan year
+Total liabilities, Sum of all type of liabilities
+PE on BSE, Company current stock price divided by its earning per share
